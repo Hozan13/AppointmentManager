@@ -1,0 +1,7 @@
+C:\Users\hasan\source\repos\AppointmentManager\AppointmentManager\bin\Debug\AppointmentManager.exe.config
+C:\Users\hasan\source\repos\AppointmentManager\AppointmentManager\bin\Debug\AppointmentManager.exe
+C:\Users\hasan\source\repos\AppointmentManager\AppointmentManager\bin\Debug\AppointmentManager.pdb
+C:\Users\hasan\source\repos\AppointmentManager\AppointmentManager\obj\Debug\AppointmentManager.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\AppointmentManager\AppointmentManager\obj\Debug\AppointmentManager.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\AppointmentManager\AppointmentManager\obj\Debug\AppointmentManager.exe
+C:\Users\hasan\source\repos\AppointmentManager\AppointmentManager\obj\Debug\AppointmentManager.pdb
